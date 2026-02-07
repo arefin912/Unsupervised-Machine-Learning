@@ -76,7 +76,6 @@ This project demonstrates a complete **unsupervised machine learning workflow** 
 
 ## 📁 Repository Structure
 
-.
 ├── iris_clustering.ipynb
 └── README.md
 
@@ -87,7 +86,7 @@ This project demonstrates a complete **unsupervised machine learning workflow** 
 
 1. Clone the repository:
 ``bash
-git clone https://github.com/your-username/iris-clustering.git
+git clone https://github.com/your-username/iris-clustering_unsupervised.git
 
 Navigate to the project directory:
 
@@ -111,6 +110,8 @@ End-to-end ML workflow implementation
 
 👤 Author
 
-Md. Shams Arefin
+Md. Shams Arefin 
+
 CSE Student, ULAB
+
 Interested in Machine Learning, Computer Vision, and AI Engineering
