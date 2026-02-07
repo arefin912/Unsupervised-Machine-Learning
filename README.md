@@ -114,7 +114,7 @@ Feature scaling is essential for distance-based algorithms.
 
 Clone the repository:
 
-git clone https://github.com/your-username/iris-clustering.git
+git clone https://github.com/your-username/iris-clustering_unsupervised.git
 
 
 Open the notebook:
